@@ -3,7 +3,7 @@
 
 # Roadmap de Engenharia de Dados
 
-Este repositório foi desenvolvido como um compilado de todas as skills e conteúdos que julguei interessantes de serem consumidas para aprimorar meu conhecimento em engenharia de dados. Todo conteúdo que está aqui foi formado de acordo com minha pequena vivência nessa área, pode ser acrescentado da visão de outras pessoas que queiram colaborar.Com esse conteúdo viso me organizar, me afiar e ajudar outras pessoas também.
+Este repositório foi desenvolvido como um compilado de todas as skills e conteúdos que julguei interessantes de serem consumidas para aprimorar meu conhecimento em engenharia de dados. Todo conteúdo que está aqui foi formado de acordo com minha pequena vivência nessa área, pode ser acrescentado da visão de outras pessoas que queiram colaborar. Com esse conteúdo viso me organizar, me desafiar e ajudar outras pessoas também.
 </td></tr></table>
 
 ## Tabela de Conteúdo
