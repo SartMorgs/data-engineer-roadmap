@@ -15,13 +15,11 @@ Este reposit√≥rio foi desenvolvido como um compilado de todas as skills e conte√
 ## Skills
 
 <p align="center">
-   <img src="img/Required-Skills.svg" alt="Required Skills" width="800" height="500">
-   <br>
+   <img src="img/Required-Skills.svg" alt="Required Skills" width="600" height="400">
 </p>
 
 <p align="center">
-   <img src="img/Knowledge-Path.svg" alt="Knowledge Path" width="600" height="800">
-   <br>
+   <img src="img/Knowledge-Path.svg" alt="Knowledge Path" width="800" height="1000">
 </p>
 
 ## Artigos para ler
