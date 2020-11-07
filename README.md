@@ -9,6 +9,7 @@ Este repositório foi desenvolvido como um compilado de todas as skills e conte�
 ## Tabela de Conteúdo
 * [Skills](#skills)
 * [Artigos para ler](#artigos-para-ler)
+* [Livros para ler](#livros-para-ler)
 * [Cursos para fazer](#cursos-para-fazer)
 * [Contribuição](#contribuição)
 
@@ -30,6 +31,13 @@ Este repositório foi desenvolvido como um compilado de todas as skills e conte�
 - :fire: [Implementing a Data Lake or Data Warehouse Architecture for Business Intelligence?](https://towardsdatascience.com/implementing-a-data-lake-architecture-for-business-intelligence-f2c99551db1a)
 - :fire: [DataOps is NOT Just DevOps for Data](https://medium.com/data-ops/dataops-is-not-just-devops-for-data-6e03083157b7)
 - :fire: [Data Warehousing: Basics of Relational Vs Star Schema Data Modeling](https://medium.com/@daryl.ung/data-warehousing-basics-of-relational-vs-star-schema-data-modeling-75a68eeaf0e3)
+
+***
+## Livros para ler
+- [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling](https://www.amazon.com.br/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802/ref=asc_df_1118530802/?tag=googleshopp00-20&linkCode=df0&hvadid=379726160779&hvpos=&hvnetw=g&hvrand=10840528030872557247&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031754&hvtargid=pla-396828635481&psc=1)
+- [Como Mentir com Estatística](https://www.amazon.com.br/Como-Mentir-Estat%C3%ADstica-Darrell-Huff/dp/858057952X/ref=sr_1_1?adgrpid=83840412449&dchild=1&gclid=CjwKCAiAqJn9BRB0EiwAJ1SztUFa3-B1ZfPfV-q9rjyzDoNLwoPF17GvS6hqgNrW9nnuLtLne7vJhBoCeDoQAvD_BwE&hvadid=425954614302&hvdev=c&hvlocphy=1031754&hvnetw=g&hvqmt=e&hvrand=11105997254867108473&hvtargid=kwd-362161445721&hydadcr=5658_11235231&keywords=como+mentir+com+estat%C3%ADstica&qid=1604763557&sr=8-1&tag=hydrbrgk-20)
+- [Data Architecture: A Primer for the Data Scientist: Big Data, Data Warehouse and Data Vault](https://www.amazon.com/Data-Architecture-Primer-Scientist-Warehouse/dp/012802044X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1528996327&sr=1-102&keywords=big+data&linkCode=sl1&tag=solutionsre04-20&linkId=52b933f8ec9b490c88e937aff44c7732)
+
 
 ***
 ## Cursos para fazer
