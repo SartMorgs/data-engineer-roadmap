@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://www.flaticon.com/svg/static/icons/svg/2857/2857377.svg" align="center" width="150" alt="Project icon">
+<img src="https://github.com/SartMorgs/data-engineer-roadmap/blob/master/dataeng.jpg" align="center" width="150" alt="Project icon">
 
 # Roadmap de Engenharia de Dados
 
@@ -15,6 +15,7 @@ Sugestões são muito bem vindas!
 * [Livros para ler](#livros-para-ler)
 * [Cursos para fazer](#cursos-para-fazer)
 * [Contribuição](#contribuição)
+* [Meu Resultado](#meu-resultado)
 
 ***
 ## Links e Dicas Úteis
@@ -23,7 +24,9 @@ Primeiro de tudo é importante se entender o que um engenheiro de dados faz, ond
 
 [O que é um engenheiro de dados](https://youtu.be/5ksmT5mphV4)
 
+
 - [Outline - Para ler artigos premium](https://outline.com/)
+- [Start Data Engineering - Muitos posts úteis](https://www.startdataengineering.com/)
 
 Pode-se usar a guia anônima para ler os artigos que pedem premium no medium (quando o link acima não funcionar).
 Infelizmente não existem tantos conteúdos em português sobre isso ainda, portanto é possível utilizar o chrome e a ferramente de tradução do google para ler os artigos caso você não entenda inglês. Para os vídeos pode-se usar a ferramenta de legendas geradas.
@@ -55,8 +58,8 @@ Habilidades mais específicas:
 | Conceitos | OLTP e OLAP <br> Business Inteligence <br> Data Modeling <br> Data Warehouse <br> Data Lake <br> Data Mesh <br> ETL e ELT | [OLTP e OLAP](https://www.linkedin.com/pulse/explain-example-oltp-vs-olap-michelle-xie/) <br> [Business Inteligence](https://youtu.be/PoCLfN6sF_8) <br> [Data Modeling](https://medium.com/sagar-explains-azure-and-analytics-data-engineerin/introduction-to-data-modelling-c0c44432ec0b) <br> [Data Warehouse](https://www.analytics8.com/blog/data-warehouse-creation-basics/) <br> [Data Lake](https://faun.pub/an-overview-of-data-lake-concepts-and-architectures-on-aws-and-azure-f485ed5110e2) <br> [Data Mesh](https://medium.com/data-hackers/data-mesh-indo-al%C3%A9m-do-data-lake-e-data-warehouse-465d57539d89) <br> [ETL e ELT](https://www.guru99.com/etl-vs-elt.html) |
 | Linguagens de Programação | Python <br> R <br> Scala | [Python](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) <br> [R](https://www.youtube.com/playlist?list=PLjgj6kdf_snYBkIsWQYcYtUZiDpam7ygg) <br> [Scala](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM) |
 | Banco de Dados | RDBMS <br> NoSQL Databases | [RDBMS](https://medium.com/@asterasoftware1/all-you-need-to-know-about-relational-database-management-systems-rdbmss-4b86dd804bac) <br> [RDBMS - Postgres](https://www.youtube.com/playlist?list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY) <br> [RDBMS - MySQL](https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r) <br> [NoSQL Databases](https://medium.com/@mark.rethana/introduction-to-nosql-databases-c5b43f3ca1cc) <br> [NoSQL Datbases - MongoDB](https://youtu.be/x9tC0eK0GtA) <br> [NoSQL Databases - Hadoop](https://www.youtube.com/playlist?list=PLeFetwYAi-F_l-NP-TUE2MqKeu_haMP79) |
-| Pipelines/ELT/ETL | Orquestradores <br> Processamento de dados <br> | |
-| Cloud | AWS <br> Azure <br> GCP | |
+| Pipelines/ELT/ETL | Orquestradores <br> Processamento de dados <br> | [Orquestrador - Airflow](https://youtu.be/f_lnDBR3rFU?t=468) <br> [Orquestrador - Prefect](https://youtu.be/FETN0iivZps) <br> [Processamento: Batch vs Stream](https://gowthamy.medium.com/big-data-battle-batch-processing-vs-stream-processing-5d94600d8103) <br> [Processamento Bacth - Exemplo](https://www.startdataengineering.com/post/update-mysql-in-batch/) <br> [Processamento Stream - Exemplo](https://www.startdataengineering.com/post/data-engineering-project-for-beginners-stream-edition/) |
+| Cloud | AWS <br> Azure <br> GCP | [AWS - Fundamentos](https://medium.com/age-of-awareness/aws-fundamentals-beginners-guide-ffea402596fb) <br> [AWS - S3](https://medium.com/analytics-vidhya/amazon-s3-for-dummies-infinite-storage-on-the-cloud-cdc43da0c013) <br> [AWS - RDS](https://medium.com/edureka/rds-aws-tutorial-for-aws-solution-architects-eec7217774dd) <br> [AWS - Athena](https://medium.com/edureka/amazon-athena-tutorial-c7583053495f) <br> [AWS - ECR/ECS](https://blog.clairvoyantsoft.com/deploy-and-run-docker-images-on-aws-ecs-85a17a073281) <br> [AWS - Lambda](https://medium.com/swlh/everything-you-need-to-know-about-aws-lambda-e0b214224b0f) <br> [AWS - StepFunction](https://medium.com/b2w-engineering/step-functions-orquestrando-aws-lambdas-1d23cdaca633) <br> [AWS - IAM](https://medium.com/kernel-space/perfect-way-to-get-started-on-aws-iam-e1d66f63acd7) <br> [AWS - EC2](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e) <br> [AWS - EMR](https://medium.com/nerd-for-tech/aws-elastic-map-reduce-intro-55206fd47c85) |
 
 ***
 ## Artigos
@@ -76,6 +79,8 @@ Habilidades mais específicas:
 
 ***
 ## Cursos para fazer
+Alguns dos cursos que avaliei como benéficos para gastar meu $$$
+
 - [Formação Engenheiro de Dados: Domine Big Data!](https://www.udemy.com/course/engenheiro-de-dados/)
 - [Big Data - Processamento de dados com Spark e PySpark](https://www.udemy.com/course/big-data-com-apache-spark-e-pyspark/)
 - [GCP: Complete Google Data Engineer and Cloud Architect Guide](https://www.udemy.com/course/gcp-data-engineer-and-cloud-architect/)
@@ -87,3 +92,7 @@ Habilidades mais específicas:
 - Discussões em Issues
 - Divulgação
 - Demais [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=%20%40sartor_morgana)](https://twitter.com/sartor_morgana)
+
+***
+## Meu Resultado
+Eventualmente, conforme eu for aprendendo e aplicando tudo que reuni aqui pretendo listar todos os repositórios e conteúdo que eu gerar a partir disso.
