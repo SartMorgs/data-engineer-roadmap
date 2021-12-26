@@ -9,7 +9,7 @@ Sugestões são muito bem vindas!
 </td></tr></table>
 
 ## Tabela de Conteúdo
-* [Links-Úteis](#links-e-dicas-úteis)
+* [Links e Dicas Úteis](#links-e-dicas-úteis)
 * [Skills](#skills)
 * [Artigos para ler](#artigos-para-ler)
 * [Livros para ler](#livros-para-ler)
