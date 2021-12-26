@@ -9,8 +9,8 @@ Sugestões são muito bem vindas!
 </td></tr></table>
 
 ## Tabela de Conteúdo
-* [Skills](#skills)
 * [Links-Úteis](#links-e-dicas-úteis)
+* [Skills](#skills)
 * [Artigos para ler](#artigos-para-ler)
 * [Livros para ler](#livros-para-ler)
 * [Cursos para fazer](#cursos-para-fazer)
