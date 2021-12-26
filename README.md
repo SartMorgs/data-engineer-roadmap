@@ -23,7 +23,8 @@ Este reposit√≥rio foi desenvolvido como um compilado de todas as skills e conte√
 ***
 ## Skills
 
-|:-----|:-----|
+| Skill | Links | 
+|:------|:------|
 | Git (versionamento) | https://towardsdatascience.com/introduction-to-git-for-data-science-ca5ffd1cebbe <br> https://youtu.be/DqTITcMq68k <br> https://youtu.be/UBAX-13g8OM |
 | Shell script/bash | https://www.sqlservercentral.com/articles/bash-for-etl-pre-processing <br> https://www.youtube.com/playlist?list=PLUJBQEDDLNcmHrKy_1sjd98Md-bfmtQOL |
 | SSH | https://medium.com/free-code-camp/a-top-down-introduction-to-ssh-965f4fadd32e <br> https://youtu.be/HOQlfJScWH4 |
