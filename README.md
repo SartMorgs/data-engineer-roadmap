@@ -8,23 +8,38 @@ Este repositório foi desenvolvido como um compilado de todas as skills e conte�
 
 ## Tabela de Conteúdo
 * [Skills](#skills)
+* [Links-Úteis](#links-úteis)
 * [Artigos para ler](#artigos-para-ler)
 * [Cursos para fazer](#cursos-para-fazer)
 * [Contribuição](#contribuição)
 
 ***
+## Links Úteis
+
+- [Outline - Para ler artigos premium](https://outline.com/)
+
+
+***
 ## Skills
 
-<p align="center">
-   <img src="img/Required-Skills.svg" alt="Required Skills" width="600" height="400">
-</p>
+|:-----|:-----|
+| Git (versionamento) | https://towardsdatascience.com/introduction-to-git-for-data-science-ca5ffd1cebbe <br> https://youtu.be/DqTITcMq68k <br> https://youtu.be/UBAX-13g8OM |
+| Shell script/bash | https://www.sqlservercentral.com/articles/bash-for-etl-pre-processing <br> https://www.youtube.com/playlist?list=PLUJBQEDDLNcmHrKy_1sjd98Md-bfmtQOL |
+| SSH | https://medium.com/free-code-camp/a-top-down-introduction-to-ssh-965f4fadd32e <br> https://youtu.be/HOQlfJScWH4 |
+| HTTP/HTTPS | https://medium.com/swlh/how-http-and-https-work-4c689e1ea369 <br> https://medium.com/@sahelasumi/http-status-codes-31644d99fb1 |
+| API | https://towardsdatascience.com/what-is-an-api-and-how-does-it-work-1dccd7a8219e |
+| SQL e NoSQL | https://youtu.be/aure5d3B88g |
+| Docker | https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76 <br> https://youtu.be/RE31GWJGkwA |
+| Kubernetes | https://medium.com/the-programmer/kubernetes-fundamentals-for-absolute-beginners-architecture-components-1f7cda8ea536 <br> https://youtu.be/pV0nkr61XP8 |
+| IaC/IaaS | https://medium.com/@kehinde_/infrastructure-as-code-what-is-it-all-about-c8ae2b8deddf <br> https://medium.com/tech-business-talk/the-easiest-explanation-of-iaas-paas-saas-the-3-cloud-service-models-432ac36ba6e1 <br> https://youtu.be/Yp-7Hn_O--g?t=753 |
+
 
 <p align="center">
    <img src="img/Knowledge-Path.svg" alt="Knowledge Path" width="800" height="1000">
 </p>
 
 ***
-## Artigos para ler
+## Artigos
 - :fire: [A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
 - :fire: [Data Engineering 101: From Batch Processing to Streaming](https://medium.com/better-programming/data-engineering-101-from-batch-processing-to-streaming-54f8c0da66fb)
 - :fire: [Implementing a Data Lake or Data Warehouse Architecture for Business Intelligence?](https://towardsdatascience.com/implementing-a-data-lake-architecture-for-business-intelligence-f2c99551db1a)
