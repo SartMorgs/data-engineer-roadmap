@@ -1,5 +1,5 @@
 <table align="center"><tr><td align="center" width="9999">
-<img src="https://github.com/SartMorgs/data-engineer-roadmap/blob/master/img/dataeng.jpg" align="center" width="150" alt="Project icon">
+<img src="https://github.com/SartMorgs/data-engineer-roadmap/blob/master/img/dataeng.jpg" align="center" width="400" alt="Project icon">
 
 # Roadmap de Engenharia de Dados
 
