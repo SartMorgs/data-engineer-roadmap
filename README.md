@@ -50,6 +50,7 @@ O básico para uso geral:
 | Docker | https://medium.com/data-hackers/docker-do-zero-a-marinheiro-adf4d9087f76 <br> https://youtu.be/RE31GWJGkwA |
 | Kubernetes | https://medium.com/the-programmer/kubernetes-fundamentals-for-absolute-beginners-architecture-components-1f7cda8ea536 <br> https://youtu.be/pV0nkr61XP8 |
 | IaC/IaaS | https://medium.com/@kehinde_/infrastructure-as-code-what-is-it-all-about-c8ae2b8deddf <br> https://medium.com/tech-business-talk/the-easiest-explanation-of-iaas-paas-saas-the-3-cloud-service-models-432ac36ba6e1 <br> https://youtu.be/Yp-7Hn_O--g?t=753 |
+| Testes | https://medium.com/@paulociecomp/uma-breve-explica%C3%A7%C3%A3o-sobre-testes-automatizados-5f6060cfbad4 <br> https://medium.com/@shivambigdata/the-etl-testing-process-and-a-useful-checklist-8aab6f777b19 <br> https://servian.dev/why-data-engineering-needs-automated-testing-a37a0844d7db |
 
 Habilidades mais específicas:
 
