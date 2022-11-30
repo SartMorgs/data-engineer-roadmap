@@ -29,7 +29,7 @@ Primeiro de tudo é importante se entender o que um engenheiro de dados faz, ond
 - [Start Data Engineering - Muitos posts úteis](https://www.startdataengineering.com/)
 
 Pode-se usar a guia anônima para ler os artigos que pedem premium no medium (quando o link acima não funcionar).
-Infelizmente não existem tantos conteúdos em português sobre isso ainda, portanto é possível utilizar o chrome e a ferramente de tradução do google para ler os artigos caso você não entenda inglês. Para os vídeos pode-se usar a ferramenta de legendas geradas.
+Infelizmente não existem tantos conteúdos em português sobre isso ainda, portanto é possível utilizar o chrome e a ferramenta de tradução do google para ler os artigos caso você não entenda inglês. Para os vídeos pode-se usar a ferramenta de legendas geradas.
 
 É importante tentar criar projetinhos para aplicar o que você está estudando, pois acredite: existe um abismo entre a teoria e a prática, principalmente se tratando de dados :)
 Aproveite para exercitar sua capacidade de lidar com vários cenários de erro e criar ações para contorná-los.
