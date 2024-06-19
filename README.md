@@ -70,6 +70,7 @@ Habilidades mais específicas:
 - :fire: [DataOps is NOT Just DevOps for Data](https://medium.com/data-ops/dataops-is-not-just-devops-for-data-6e03083157b7)
 - :fire: [Data Warehousing: Basics of Relational Vs Star Schema Data Modeling](https://medium.com/@daryl.ung/data-warehousing-basics-of-relational-vs-star-schema-data-modeling-75a68eeaf0e3)
 - :fire: [Spark 101: Introdução ao framework de processamento de dados distribuídos](https://medium.com/gabriel-luz/spark-101-introdu%C3%A7%C3%A3o-ao-framework-de-processamento-de-dados-distribu%C3%ADdos-1f959e596024)
+- :fire: [Data Engineer Roadmap](https://www.scaler.com/blog/data-engineer-roadmap/)
 
 ***
 ## Livros para ler
