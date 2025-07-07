@@ -25,7 +25,8 @@ Primeiro de tudo é importante se entender o que um engenheiro de dados faz, ond
 [O que é um engenheiro de dados](https://youtu.be/5ksmT5mphV4)
 
 
-- [Outline - Para ler artigos premium](https://outline.com/)
+- [Freedium - Para ler artigos premium no medium](https://freedium.cfd)
+- [12ft - Para remover paywalls em sites diversos](https://12ft.io)
 - [Start Data Engineering - Muitos posts úteis](https://www.startdataengineering.com/)
 
 Pode-se usar a guia anônima para ler os artigos que pedem premium no medium (quando o link acima não funcionar).
